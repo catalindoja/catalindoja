@@ -3,7 +3,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&animation=fadeIn)
 
 ## 🚀 About Me
-Hi! I'm a passionate developer who loves coding, open-source, and learning new things. Feel free to explore my repositories and projects!
+Hi! I'm a Master's Degree Student at the University of Lleida. I am currently working for the university in the Mathemathics department doing projects in Research and Development in AI.
+I like to learn new things and explore the possibilities of new technologies.
+I love IT because even if sometimes you can get stuck with a bug for hours or days, when the project you try so hard to code works, it's super satisfying!
 
 ---
 
